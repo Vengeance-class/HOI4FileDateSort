@@ -1,0 +1,91 @@
+Overlapping Files:
+
+=========
+Please note: Similar Edit Times are ignored (made on the same hour)! 
+
+
+
+REPORT:
+GameFile: interface\equipmentdesignerview.gui - LastModified: 6/10/2024 10:31:12 PM 
+ModFile: interface\equipmentdesignerview.gui - LastModified: 9/30/2024 2:53:58 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\industry.txt - LastModified: 4/30/2024 1:32:50 PM 
+ModFile: common\technologies\industry.txt - LastModified: 9/10/2024 8:49:36 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\support.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\support.txt - LastModified: 9/29/2024 2:05:23 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\infantry.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\infantry.txt - LastModified: 10/9/2024 8:51:01 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\artillery.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\artillery.txt - LastModified: 10/2/2024 4:42:32 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\bba_air_techs.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\bba_air_techs.txt - LastModified: 10/3/2024 5:45:07 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\MTG_naval.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\MTG_naval.txt - LastModified: 10/23/2024 8:49:54 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\electronic_mechanical_engineering.txt - LastModified: 3/7/2024 7:22:21 PM 
+ModFile: common\technologies\electronic_mechanical_engineering.txt - LastModified: 9/15/2024 11:24:51 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\armor.txt - LastModified: 3/7/2024 7:22:19 PM 
+ModFile: common\technologies\armor.txt - LastModified: 10/1/2024 7:55:27 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\NSB_armor.txt - LastModified: 11/1/2023 5:40:24 PM 
+ModFile: common\technologies\NSB_armor.txt - LastModified: 9/30/2024 11:51:47 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: interface\countrystateview.gui - LastModified: 10/10/2023 6:28:23 PM 
+ModFile: interface\countrystateview.gui - LastModified: 9/5/2024 2:49:11 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: interface\countrytechtreeview.gui - LastModified: 10/10/2023 6:28:23 PM 
+ModFile: interface\countrytechtreeview.gui - LastModified: 10/2/2024 11:19:16 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\units\equipment\ship_hull_light.txt - LastModified: 10/10/2023 6:28:22 PM 
+ModFile: common\units\equipment\ship_hull_light.txt - LastModified: 9/30/2024 2:58:17 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\technologies\air_techs.txt - LastModified: 10/10/2023 6:28:22 PM 
+ModFile: common\technologies\air_techs.txt - LastModified: 9/16/2024 2:48:22 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\script_enums.txt - LastModified: 10/10/2023 6:28:14 PM 
+ModFile: common\script_enums.txt - LastModified: 9/30/2024 3:02:12 AM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\units\equipment\upgrades\naval_upgrades.txt - LastModified: 9/27/2022 8:16:55 PM 
+ModFile: common\units\equipment\upgrades\naval_upgrades.txt - LastModified: 10/2/2024 9:53:36 PM
+ --- Mod File is latest.
+
+REPORT:
+GameFile: common\buildings\00_buildings.txt - LastModified: 5/14/2022 5:10:59 PM 
+ModFile: common\buildings\00_buildings.txt - LastModified: 9/10/2024 8:04:33 PM
+ --- Mod File is latest.
